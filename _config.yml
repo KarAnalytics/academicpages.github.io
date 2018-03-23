@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Karthik Srinivasan"
+title                    : "Personal page"
 title_separator          : "-"
 name                     : &name "Karthik Srinivasan"
 description              : &description "Doctoral student, University of Arizona"
-url                      : "https://karanalytics.github.io" 
+url                      : "https://karanalytics.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "karanalytics/karanalytics.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Karthik Srinivasan"
   avatar           : "profile.png"
-  bio              : "MIS PhD student, 
+  bio              : "MIS PhD student,
                       Digital Health enthusiast"
   location         : "Tucson, Arizona"
   employer         :
