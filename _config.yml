@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Personal page"
 title_separator          : "-"
-name                     : &name "Karthik Srinivasan"
+name                     : &name "Personal page"
 description              : &description "Doctoral student, University of Arizona"
 url                      : "https://karanalytics.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
