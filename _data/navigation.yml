@@ -4,8 +4,8 @@ main:
     url: /publications/
 
   - title: "Teaching"
-    url: /teaching/    
-    
+    url: /teaching/
+
   - title: "CV"
-    url: /cv/
-    
+    url: "https://karanalytics.github.io/files/CV.pdf"
+#    url: /cv/
