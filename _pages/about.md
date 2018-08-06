@@ -8,7 +8,7 @@ redirect_from:
 - /about.html
 ---
 
-My name is Karthik Srinivasan and I am a fifth year Ph.D Student in Management Information Systems (MIS) at the University of Arizona. My Ph.D advisor is Professor [Sudha Ram](https://mis.eller.arizona.edu/people/sudha-ram).
+My name is Karthik Srinivasan and I am doing my Ph.D in Management Information Systems (MIS) at the [University of Arizona](https://mis.eller.arizona.edu/). My Ph.D advisor is Professor [Sudha Ram](https://mis.eller.arizona.edu/people/sudha-ram).
 
 My primary research focus areas are preventive care analytics and digital health analytics. I am also interested in the study and development of information systems to improve the efficiency and affordability of healthcare.    
 
@@ -23,4 +23,3 @@ My dissertation consists of five essays, presenting a collection of statistical 
 *	How can we analyze data and make predictions with incomplete data containing block-wise missing patterns?
 
 The first and second essays demonstrate applications in preventive care analytics using network science and predictive modeling methods. The third and fourth essays leverage explanatory modeling approaches to a digital health application, determining the impact of different factors in building design on wellbeing of office workers. The fifth essay presents a method to analyze incomplete data in health analytics and digital health applications. Essay 1 is complete and published in the Journal of Biomedical Health Informatics, 2017 (early access). Essay 3 is accepted and forthcoming at Journal of Occupational and Environmental Medicine, July 2018.
- 
