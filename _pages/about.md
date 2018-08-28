@@ -11,9 +11,9 @@ My name is Karthik Srinivasan and I am doing my Ph.D in Management Information S
 
 My researches focus areas are preventive care analytics and digital health analytics. Preventive care and digital health are two application domains of healthcare information systems (HIS) analytics. Preventive care analytics is the science of extracting population-level insights from electronic health records to assist preventive care policies, while digital health analytics focuses on enhancing individual wellbeing via continuous tracking of health indicators. With rapid development in healthcare big data and sensor technologies, research in these two areas is increasing in importance and complexity. Innovative methods are required for processing and analyzing the complex data generated from such systems. My current research focuses on addressing the challenges in preventive care and digital health analytics using novel statistical machine learning methods.
 
-<div class="wp-caption aligncenter" style="width: 750px; border: 0;">
+<div class="wp-caption aligncenter" style="width: 750px">
   <p>
-    <img class="aligncenter" src="http://karanalytics.com/images/Health_analytics.png" alt="File:Dublin.jpg"/>
+    <img class="aligncenter" src="http://karanalytics.com/images/Health_analytics.png" alt="File:Health_analytics.png"/>
   </p>
 </div>
 
