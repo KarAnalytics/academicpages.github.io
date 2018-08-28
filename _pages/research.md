@@ -59,5 +59,5 @@ Ram S., Srinivasan K., Chagarlamudi S. "[Analysis of Chronic Disease Related Pat
 
 ## Selected Media mentions of Research
 
-   [Workers in open-plan offices more active](https://www.bbc.com/news/health-45247799), BBC (Aug 2018).
-   [Staff in open plan offices are fitter and less stressed](https://www.theguardian.com/money/2018/aug/20/staff-in-open-plan-offices-are-fitter-and-less-stressed), The Guardian (Aug 2018).
+   * [Workers in open-plan offices more active](https://www.bbc.com/news/health-45247799), BBC (Aug 2018).
+   * [Staff in open plan offices are fitter and less stressed](https://www.theguardian.com/money/2018/aug/20/staff-in-open-plan-offices-are-fitter-and-less-stressed), The Guardian (Aug 2018).
