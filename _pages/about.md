@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Me and my research"
-excerpt: "Me and my research"
+excerpt: "Karthik Srinivasan"
 author_profile: true
 redirect_from:
 - /about/
