@@ -9,11 +9,9 @@ redirect_from:
 ---
 My name is Karthik Srinivasan and I am doing my Ph.D in Management Information Systems (MIS) at the [University of Arizona](https://mis.eller.arizona.edu/). My Ph.D advisor is Professor [Sudha Ram](https://mis.eller.arizona.edu/people/sudha-ram).
 
-<div class="wp-caption aligncenter" style="width: 250px; border: 0;">
+<div class="wp-caption aligncenter" style="width: 750px; border: 0;">
   <p>
-    <img class="aligncenter" src="http://karanalytics.com/images/Health_analytics.png" alt="File:Dublin.jpg" />
-  </p>
-
+    <img class="aligncenter" src="http://karanalytics.com/images/Health_analytics.png" alt="File:Dublin.jpg"/>
   </p>
 </div>
 
