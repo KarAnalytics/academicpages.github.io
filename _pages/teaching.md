@@ -21,7 +21,7 @@ Here you will find documents that demonstrate my teaching effectiveness and prac
 
   [<img src="http://karanalytics.com/images/lasalle.png" style="width: 300px">](http://karanalytics.com/files/LaSalle.pdf)
 
-  [<img src="http://karanalytics.com/images/samplevideo.png" style="width: 200px">](https://youtu.be/IV-Fsuq-23Y)
+  [<img src="http://karanalytics.com/images/samplevideo.png" style="width: 300px">](https://youtu.be/IV-Fsuq-23Y)
 
   [<img src="http://karanalytics.com/images/letterZhipeng.png" style="width: 300px">](http://karanalytics.com/files/peerobservation.pdf)
 
