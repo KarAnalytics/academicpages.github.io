@@ -21,17 +21,13 @@ I have taught the following two undergraduate courses in MIS department, Univers
 
 Here you will find documents that demonstrate my teaching effectiveness and practice. Feel free to click below or navigate through the pages.
 
-[![button1](http://karanalytics.com/images/lasalle.png)]
-(http://karanalytics.com/files/LaSalle.pdf)
+[<img src="http://karanalytics.com/images/lasalle.png">](http://karanalytics.com/files/LaSalle.pdf)
 
-[![button2](http://karanalytics.com/images/samplevideo.png)]
-(https://youtu.be/IV-Fsuq-23Y)
+[<img src="http://karanalytics.com/images/samplevideo.png">](https://youtu.be/IV-Fsuq-23Y)
 
-[![button3](http://karanalytics.com/images/letterZhipeng.png)]
-(http://karanalytics.com/files/peerobservation.pdf)
+[<img src="http://karanalytics.com/images/letterZhipeng.png">](http://karanalytics.com/files/peerobservation.pdf)
 
-[![button4](http://karanalytics.com/images/sample_assignment.png)]
-(http://karanalytics.com/files/Sample_assignment.pdf)
+[<img src="http://karanalytics.com/images/sample_assignment.png">](http://karanalytics.com/files/Sample_assignment.pdf)
 
 [![button5](http://karanalytics.com/images/assignmentfeedback.png)]
 (http://karanalytics.com/files/Sample_assignmentfeedback.pdf)
