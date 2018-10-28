@@ -19,7 +19,7 @@ I have taught the following two undergraduate courses in MIS department, Univers
 
 ## Teaching effectiveness
 
-Here you will find a sampling of materials and documents that demonstrate my teaching effectiveness and practice. Feel free to click below or navigate through the pages.
+Here you will find documents that demonstrate my teaching effectiveness and practice. Feel free to click below or navigate through the pages.
 
 [![button1](http://karanalytics.com/images/lasalle.png)]
 (http://karanalytics.com/files/LaSalle.pdf)
