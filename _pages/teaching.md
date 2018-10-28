@@ -29,20 +29,14 @@ Here you will find documents that demonstrate my teaching effectiveness and prac
 
 [<img src="http://karanalytics.com/images/sample_assignment.png">](http://karanalytics.com/files/Sample_assignment.pdf)
 
-[![button5](http://karanalytics.com/images/assignmentfeedback.png)]
-(http://karanalytics.com/files/Sample_assignmentfeedback.pdf)
+[<img src="http://karanalytics.com/images/assignmentfeedback.png">](http://karanalytics.com/files/Sample_assignmentfeedback.pdf)
 
-[![button6](http://karanalytics.com/images/teachingrubric.png)]
-(http://karanalytics.com/files/Sample_assessmentrubric.pdf)
+[<img src="http://karanalytics.com/images/teachingrubric.png">](http://karanalytics.com/files/Sample_assessmentrubric.pdf)
 
-[![button7](http://karanalytics.com/images/syllabus.png)]
-(http://karanalytics.com/files/Sample_syllabus.pdf)
+[<img src="http://karanalytics.com/images/syllabus.png">](http://karanalytics.com/files/Sample_syllabus.pdf)
 
-[![button8](http://karanalytics.com/images/lessonplan.png)]
-(http://karanalytics.com/files/Sample_lessonplan.pdf)
+[<img src="http://karanalytics.com/images/lessonplan.png">](http://karanalytics.com/files/Sample_lessonplan.pdf)
 
-[![button9](http://karanalytics.com/images/tcemis111.png)]
-(http://karanalytics.com/files/MIS111_feedback.pdf)
+[<img src="http://karanalytics.com/images/tcemis111.png">](http://karanalytics.com/files/MIS111_feedback.pdf)
 
-[![button10](http://karanalytics.com/images/tcemis331.png)]
-(http://karanalytics.com/files/MIS331_feedback.pdf)
+[<img src="http://karanalytics.com/images/tcemis331.png">](http://karanalytics.com/files/MIS331_feedback.pdf)
