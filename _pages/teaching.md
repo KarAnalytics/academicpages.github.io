@@ -5,17 +5,11 @@ permalink: /teaching/
 author_profile: true
 ---
 
-<div class="row" style="width: 775px">
-  <div class="column">
+<div class="wp-caption aligncenter" style="width: 775px">
   <p>
-    Teaching is one of the core responsibilities of an academic. It is an intellectually enriching activity as it helps in re-enforcing one’s own understanding of topics. The role of a teacher is to enable students to develop knowledge and skills useful in their ensuing careers. My teaching goal is to ensure that students not only get significant takeaways from my teaching, but also become better learners.
+    <img class="aligncenter" src="http://karanalytics.com/images/Teaching4.png" alt="File:Teaching_KarthikS.png"/>
   </p>
-  </div>
-  <div class="column">
-    <img class="aligncenter" src="http://karanalytics.com/images/Teaching2.png" alt="File:Teaching_KarthikS.png"/>
-  </div>
 </div>
-
 
 ## Teaching experience
 
@@ -25,22 +19,29 @@ I have taught the following two undergraduate courses in MIS department, Univers
 
 Here you will find documents that demonstrate my teaching effectiveness and practice. Feel free to click below or navigate through the pages.
 
-[<img src="http://karanalytics.com/images/lasalle.png" style="width: 200px">](http://karanalytics.com/files/LaSalle.pdf)
+<div class="row" style="width: 775px">
+  <div class="column">
+  [<img src="http://karanalytics.com/images/lasalle.png" style="width: 300px">](http://karanalytics.com/files/LaSalle.pdf)
 
-[<img src="http://karanalytics.com/images/samplevideo.png" style="width: 200px">](https://youtu.be/IV-Fsuq-23Y)
+  [<img src="http://karanalytics.com/images/samplevideo.png" style="width: 200px">](https://youtu.be/IV-Fsuq-23Y)
 
-[<img src="http://karanalytics.com/images/letterZhipeng.png" style="width: 200px">](http://karanalytics.com/files/peerobservation.pdf)
+  [<img src="http://karanalytics.com/images/letterZhipeng.png" style="width: 300px">](http://karanalytics.com/files/peerobservation.pdf)
 
-[<img src="http://karanalytics.com/images/sample_assignment.png" style="width: 200px">](http://karanalytics.com/files/Sample_assignment.pdf)
+  [<img src="http://karanalytics.com/images/sample_assignment.png" style="width: 300px">](http://karanalytics.com/files/Sample_assignment.pdf)
 
-[<img src="http://karanalytics.com/images/assignmentfeedback.png" style="width: 200px">](http://karanalytics.com/files/Sample_assignmentfeedback.pdf)
+  [<img src="http://karanalytics.com/images/assignmentfeedback.png" style="width: 300px">](http://karanalytics.com/files/Sample_assignmentfeedback.pdf)
 
-[<img src="http://karanalytics.com/images/teachingrubric.png" style="width: 200px">](http://karanalytics.com/files/Sample_assessmentrubric.pdf)
+  </div>
+  <div class="column">
+  [<img src="http://karanalytics.com/images/teachingrubric.png" style="width: 300px">](http://karanalytics.com/files/Sample_assessmentrubric.pdf)
 
-[<img src="http://karanalytics.com/images/syllabus.png" style="width: 200px">](http://karanalytics.com/files/Sample_syllabus.pdf)
+  [<img src="http://karanalytics.com/images/syllabus.png" style="width: 300px">](http://karanalytics.com/files/Sample_syllabus.pdf)
 
-[<img src="http://karanalytics.com/images/lessonplan.png" style="width: 200px">](http://karanalytics.com/files/Sample_lessonplan.pdf)
+  [<img src="http://karanalytics.com/images/lessonplan.png" style="width: 300px">](http://karanalytics.com/files/Sample_lessonplan.pdf)
 
-[<img src="http://karanalytics.com/images/tcemis111.png" style="width: 200px">](http://karanalytics.com/files/MIS111_feedback.pdf)
+  [<img src="http://karanalytics.com/images/tcemis111.png" style="width: 300px">](http://karanalytics.com/files/MIS111_feedback.pdf)
 
-[<img src="http://karanalytics.com/images/tcemis331.png" style="width: 200px">](http://karanalytics.com/files/MIS331_feedback.pdf)
+  [<img src="http://karanalytics.com/images/tcemis331.png" style="width: 300px">](http://karanalytics.com/files/MIS331_feedback.pdf)
+
+  </div>
+</div>
