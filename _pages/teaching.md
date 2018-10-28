@@ -45,8 +45,8 @@ Here you will find a sampling of materials and documents that demonstrate my tea
 [![button8](http://karanalytics.com/images/lessonplan.png)]
 (http://karanalytics.com/files/Sample_lessonplan.pdf)
 
-[![button9](http://karanalytics.com/images/tce111.png)]
+[![button9](http://karanalytics.com/images/tcemis111.png)]
 (http://karanalytics.com/files/MIS111_feedback.pdf)
 
-[![button10](http://karanalytics.com/images/tce331.png)]
+[![button10](http://karanalytics.com/images/tcemis331.png)]
 (http://karanalytics.com/files/MIS331_feedback.pdf)
