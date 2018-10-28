@@ -19,8 +19,6 @@ I have taught the following two undergraduate courses in MIS department, Univers
 
 Here you will find documents that demonstrate my teaching effectiveness and practice. Feel free to click below or navigate through the pages.
 
-<div class="row" style="width: 775px">
-  <div class="column">
   [<img src="http://karanalytics.com/images/lasalle.png" style="width: 300px">](http://karanalytics.com/files/LaSalle.pdf)
 
   [<img src="http://karanalytics.com/images/samplevideo.png" style="width: 200px">](https://youtu.be/IV-Fsuq-23Y)
@@ -31,8 +29,6 @@ Here you will find documents that demonstrate my teaching effectiveness and prac
 
   [<img src="http://karanalytics.com/images/assignmentfeedback.png" style="width: 300px">](http://karanalytics.com/files/Sample_assignmentfeedback.pdf)
 
-  </div>
-  <div class="column">
   [<img src="http://karanalytics.com/images/teachingrubric.png" style="width: 300px">](http://karanalytics.com/files/Sample_assessmentrubric.pdf)
 
   [<img src="http://karanalytics.com/images/syllabus.png" style="width: 300px">](http://karanalytics.com/files/Sample_syllabus.pdf)
@@ -42,6 +38,3 @@ Here you will find documents that demonstrate my teaching effectiveness and prac
   [<img src="http://karanalytics.com/images/tcemis111.png" style="width: 300px">](http://karanalytics.com/files/MIS111_feedback.pdf)
 
   [<img src="http://karanalytics.com/images/tcemis331.png" style="width: 300px">](http://karanalytics.com/files/MIS331_feedback.pdf)
-
-  </div>
-</div>
