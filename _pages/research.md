@@ -14,6 +14,13 @@ instrumental in shaping my research trajectory.
 
 My current research outputs can be placed into three categories: (a) Preventive care with focus on disease occurrence and co-occurrence in patient visits, (b) Digital health application of environment-wellbeing modeling at workplace, (c) Data analytics methods
 
+<div class="wp-caption aligncenter" style="width: 775px">
+  <p>
+    <img class="aligncenter" src="http://karanalytics.com/images/MyResearch.png" alt="File:Research_conceptMap_KarthikS.png"/>
+  </p>
+</div>
+
+
 Following are the articles published, under-review and in working status:
 
 ## Refereed Journals
