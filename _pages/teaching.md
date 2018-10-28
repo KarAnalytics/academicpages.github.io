@@ -19,22 +19,22 @@ I have taught the following two undergraduate courses in MIS department, Univers
 
 Here you will find documents that demonstrate my teaching effectiveness and practice. Feel free to click below or navigate through the pages.
 
-  [<img src="http://karanalytics.com/images/lasalle.png" style="width: 300px">](http://karanalytics.com/files/LaSalle.pdf)
+  [<img src="http://karanalytics.com/images/lasalle.png" style="width: 300px">](http://karanalytics.com/files/LaSalle.pdf){:target="_blank"}
 
-  [<img src="http://karanalytics.com/images/samplevideo.png" style="width: 300px">](https://youtu.be/IV-Fsuq-23Y)
+  [<img src="http://karanalytics.com/images/samplevideo.png" style="width: 300px">](https://youtu.be/IV-Fsuq-23Y){:target="_blank"}
 
-  [<img src="http://karanalytics.com/images/letterZhipeng.png" style="width: 300px">](http://karanalytics.com/files/peerobservation.pdf)
+  [<img src="http://karanalytics.com/images/letterZhipeng.png" style="width: 300px">](http://karanalytics.com/files/peerobservation.pdf){:target="_blank"}
 
-  [<img src="http://karanalytics.com/images/sample_assignment.png" style="width: 300px">](http://karanalytics.com/files/Sample_assignment.pdf)
+  [<img src="http://karanalytics.com/images/sample_assignment.png" style="width: 300px">](http://karanalytics.com/files/Sample_assignment.pdf){:target="_blank"}
 
-  [<img src="http://karanalytics.com/images/assignmentfeedback.png" style="width: 300px">](http://karanalytics.com/files/Sample_assignmentfeedback.pdf)
+  [<img src="http://karanalytics.com/images/assignmentfeedback.png" style="width: 300px">](http://karanalytics.com/files/Sample_assignmentfeedback.pdf){:target="_blank"}
 
-  [<img src="http://karanalytics.com/images/teachingrubric.png" style="width: 300px">](http://karanalytics.com/files/Sample_assessmentrubric.pdf)
+  [<img src="http://karanalytics.com/images/teachingrubric.png" style="width: 300px">](http://karanalytics.com/files/Sample_assessmentrubric.pdf){:target="_blank"}
 
-  [<img src="http://karanalytics.com/images/syllabus.png" style="width: 300px">](http://karanalytics.com/files/Sample_syllabus.pdf)
+  [<img src="http://karanalytics.com/images/syllabus.png" style="width: 300px">](http://karanalytics.com/files/Sample_syllabus.pdf){:target="_blank"}
 
-  [<img src="http://karanalytics.com/images/lessonplan.png" style="width: 300px">](http://karanalytics.com/files/Sample_lessonplan.pdf)
+  [<img src="http://karanalytics.com/images/lessonplan.png" style="width: 300px">](http://karanalytics.com/files/Sample_lessonplan.pdf){:target="_blank"}
 
-  [<img src="http://karanalytics.com/images/tcemis111.png" style="width: 300px">](http://karanalytics.com/files/MIS111_feedback.pdf)
+  [<img src="http://karanalytics.com/images/tcemis111.png" style="width: 300px">](http://karanalytics.com/files/MIS111_feedback.pdf){:target="_blank"}
 
-  [<img src="http://karanalytics.com/images/tcemis331.png" style="width: 300px">](http://karanalytics.com/files/MIS331_feedback.pdf)
+  [<img src="http://karanalytics.com/images/tcemis331.png" style="width: 300px">](http://karanalytics.com/files/MIS331_feedback.pdf){:target="_blank"}
