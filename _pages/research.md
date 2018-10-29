@@ -62,7 +62,7 @@ Research Group of India_, 2013.
 
 ## White papers
 
-Ram S., Srinivasan K., Chagarlamudi S. "[Analysis of Chronic Disease Related Patient Visits in Arizona Hospitals](https://insiteua.org/research/chronic-disease-trends-arizona-counties)", Making Action Possible dashboard report, Nov 2018}}.
+Ram S., Srinivasan K., Chagarlamudi S. "[Analysis of Chronic Disease Related Patient Visits in Arizona Hospitals](https://insiteua.org/research/chronic-disease-trends-arizona-counties)", Making Action Possible dashboard report, Nov 2018.
 
 ## Selected Media mentions of Research
 
