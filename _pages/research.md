@@ -69,11 +69,13 @@ Ram S., Srinivasan K., Chagarlamudi S. "[Analysis of Chronic Disease Related Pat
    * [Workers in open-plan offices more active](https://www.bbc.com/news/health-45247799), BBC (Aug 2018).
    * [Staff in open plan offices are fitter and less stressed](https://www.theguardian.com/money/2018/aug/20/staff-in-open-plan-offices-are-fitter-and-less-stressed), The Guardian (Aug 2018).
 
+
+## Illustrations   
+
    <div class="wp-caption aligncenter" style="width: 775px">
      <p>
        <img class="aligncenter" src="http://karanalytics.com/images/DCN.gif" alt="File:DCN.gif"/>
      </p>
-
      <p class="wp-caption-text">
     <em> Disease co-occurrence network, community detection and diseases/conditions in individual communities </em>
     </p>
