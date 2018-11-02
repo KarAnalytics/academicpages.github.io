@@ -80,3 +80,5 @@ Ram S., Srinivasan K., Chagarlamudi S. "[Analysis of Chronic Disease Related Pat
     <em> Disease co-occurrence network, community detection and diseases/conditions in individual communities </em>
     </p>
    </div>
+
+[Guest lecture titled "Predicting High Cost Patients at Point of Admission using Network Science"](https://youtu.be/0c9FmectbmM)
