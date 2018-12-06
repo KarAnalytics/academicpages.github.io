@@ -11,7 +11,7 @@ author_profile: true
   </p>
 </div>
 
-[My Teaching Philosophy](http://karanalytics.com/files/TeachingStatement_KarthikS.pdf)
+My teaching philosophy statement can be found [here](http://karanalytics.com/files/TeachingStatement_KarthikS.pdf)
 
 ## Teaching experience
 
@@ -24,11 +24,11 @@ Here you will find documents that demonstrate my teaching effectiveness and prac
 ### Evidence of practice
 
 [<img src="http://karanalytics.com/images/buttons/samplevideo.png" style="width: 400px">](https://youtu.be/IV-Fsuq-23Y){:target="_blank"}
+[<img src="http://karanalytics.com/images/buttons/SampleClassSlides.png" style="width: 400px">](http://karanalytics.com/files/Teaching_sample.pptx){:target="_blank"}
 [<img src="http://karanalytics.com/images/buttons/syllabus.png" style="width: 400px">](http://karanalytics.com/files/Sample_syllabus.pdf){:target="_blank"}
 [<img src="http://karanalytics.com/images/buttons/teachingrubric.png" style="width: 400px">](http://karanalytics.com/files/Sample_assessmentrubric.pdf){:target="_blank"}
 [<img src="http://karanalytics.com/images/buttons/sample_assignment.png" style="width: 400px">](http://karanalytics.com/files/Sample_assignment.pdf){:target="_blank"}
 [<img src="http://karanalytics.com/images/buttons/assignmentfeedback.png" style="width: 400px">](http://karanalytics.com/files/Sample_assignmentfeedback.pdf){:target="_blank"}
-[<img src="http://karanalytics.com/images/buttons/SampleClassSlides.png" style="width: 400px">](http://karanalytics.com/files/Teaching_sample.pptx){:target="_blank"}
 
 ### Evidence of teaching effectiveness
 
@@ -36,4 +36,4 @@ Here you will find documents that demonstrate my teaching effectiveness and prac
 [<img src="http://karanalytics.com/images/buttons/letterZhipeng.png" style="width: 400px">](http://karanalytics.com/files/peerobservation.pdf){:target="_blank"}
 [<img src="http://karanalytics.com/images/buttons/tcemis111.png" style="width: 400px">](http://karanalytics.com/files/MIS111_feedback.pdf){:target="_blank"}  [<img src="http://karanalytics.com/images/buttons/tcemis331.png" style="width: 400px">](http://karanalytics.com/files/MIS331_feedback.pdf){:target="_blank"}  
 
-<center> * The instructor brought to the classroom a lot of passion for the material, an unusual characteristic for professors. The instructor always made sure students understood the material and was flexible in helping them when they needed help. * - Anonymous student feedback in MIS 331 course </center>
+* **The instructor brought to the classroom a lot of passion for the material, an unusual characteristic for professors. The instructor always made sure students understood the material and was flexible in helping them when they needed help.**  - Anonymous student feedback in MIS 331 course *
