@@ -15,7 +15,7 @@ I have taught the following two undergraduate courses in MIS department, Univers
 
 MIS 111 was the first course I got to teach in a university setting, with a class strength of 17 students. Besides the traditional topics such as database and systems design, I covered current topics such as cybersecurity, cloud computing, human computer interaction, business intelligence and big data in this introductory course. Overall rating for teaching effectiveness in the teacher course evaluation (TCE) survey was 4.69/5.00. I took up the challenge of teaching a more technical course during the semester by electing to teach the database management systems (MIS 331) course in Fall 2017. It was a larger class with 59 students, mostly in their junior or senior years of college. Overall rating for teaching effectiveness in the teacher course evaluation (TCE) survey was 3.79/5.00. Below, I have shared some teaching artifacts demonstrating evidence of my teaching practices.
 
-* <span style="color:DarkBlue">[Sample teaching (video)](https://youtu.be/IV-Fsuq-23Y)</span>
+* <span style="color:DarkBlue"><a href="https://youtu.be/IV-Fsuq-23Y/" target="_blank">Sample teaching</a> </span>
 * <span style="color:DarkBlue">[Sample class slides](http://karanalytics.com/files/Teaching_sample.pptx)</span>
 * <span style="color:DarkBlue">[Sample syllabus](http://karanalytics.com/files/Sample_syllabus.pdf)</span>
 * <span style="color:DarkBlue">[Sample assignment](http://karanalytics.com/files/Sample_assignment.pdf)</span>
@@ -30,9 +30,3 @@ The MIS department, University of Arizona recognized my teaching efforts and awa
 * <span style="color:DarkBlue">[Peer observation letter](http://karanalytics.com/files/peerobservation.pdf)</span>
 * <span style="color:DarkBlue">[Student feedback - MIS 111](http://karanalytics.com/files/MIS111_feedback.pdf)</span>
 * <span style="color:DarkBlue">[Student feedback - MIS 331](http://karanalytics.com/files/MIS331_feedback.pdf)</span>
-
-<div class="wp-caption aligncenter" style="width: 200px">
-  <p>
-    <img class="aligncenter" src="http://karanalytics.com/images/Student_feedback.png" alt="File:Student_feedback.png"/>
-  </p>
-</div>
