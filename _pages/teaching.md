@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-<div class="wp-caption aligncenter" style="width: 400px" onclick="window.open('http://karanalytics.com/files/TeachingStatement_KarthikS.pdf','Teaching_statement_KarthikS');" style="cursor: pointer;"><p><img class="aligncenter" src="http://karanalytics.com/images/Teaching4.png" alt="File:Teaching_KarthikS.png"/></p></div>
+<div class="wp-caption aligncenter" style="width: 300px" onclick="window.open('http://karanalytics.com/files/TeachingStatement_KarthikS.pdf','Teaching_statement_KarthikS');" style="cursor: pointer;"><p><img class="aligncenter" src="http://karanalytics.com/images/Teaching4.png" alt="File:Teaching_KarthikS.png"/></p></div>
 
 # Teaching experience
 
@@ -31,4 +31,8 @@ The MIS department, University of Arizona recognized my teaching efforts and awa
 * <span style="color:DarkBlue">[Student feedback - MIS 111](http://karanalytics.com/files/MIS111_feedback.pdf)</span>
 * <span style="color:DarkBlue">[Student feedback - MIS 331](http://karanalytics.com/files/MIS331_feedback.pdf)</span>
 
-<span style="font-family:Papyrus; font-size:1em; ">The instructor brought to the classroom a lot of passion for the material, an unusual characteristic for professors. The instructor always made sure students understood the material and was flexible in helping them when they needed help. - Anonymous student feedback </span>
+<div class="wp-caption aligncenter" style="width: 775px">
+  <p>
+    <img class="aligncenter" src="http://karanalytics.com/images/Student_feedback.png" alt="File:Student_feedback.png"/>
+  </p>
+</div>
