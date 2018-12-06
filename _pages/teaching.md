@@ -36,4 +36,4 @@ Here you will find documents that demonstrate my teaching effectiveness and prac
 [<img src="http://karanalytics.com/images/buttons/letterZhipeng.png" style="width: 400px">](http://karanalytics.com/files/peerobservation.pdf){:target="_blank"}
 [<img src="http://karanalytics.com/images/buttons/tcemis111.png" style="width: 400px">](http://karanalytics.com/files/MIS111_feedback.pdf){:target="_blank"}  [<img src="http://karanalytics.com/images/buttons/tcemis331.png" style="width: 400px">](http://karanalytics.com/files/MIS331_feedback.pdf){:target="_blank"}  
 
-* **The instructor brought to the classroom a lot of passion for the material, an unusual characteristic for professors. The instructor always made sure students understood the material and was flexible in helping them when they needed help.**  - Anonymous student feedback in MIS 331 course *
+***The instructor brought to the classroom a lot of passion for the material, an unusual characteristic for professors. The instructor always made sure students understood the material and was flexible in helping them when they needed help.***  *-Anonymous student feedback in MIS 331 course*
