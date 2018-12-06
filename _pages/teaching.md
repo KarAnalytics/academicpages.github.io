@@ -5,13 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-<div class="wp-caption aligncenter" style="width: 775px">
-<a href="http://karanalytics.com/files/TeachingStatement_KarthikS.pdf">
-  <p>
-    <img class="aligncenter" src="http://karanalytics.com/images/Teaching4.png" alt="File:Teaching_KarthikS.png"/>
-    </a>
-  </p>
-</div>
+<div class="wp-caption aligncenter" style="width: 775px"><a href="http://karanalytics.com/files/TeachingStatement_KarthikS.pdf"><p><img class="aligncenter" src="http://karanalytics.com/images/Teaching4.png" alt="File:Teaching_KarthikS.png"/></a></p></div>
 
 # Teaching experience
 
@@ -40,4 +34,4 @@ Below, I have shared the teaching award notification letter from the department,
 [<img src="http://karanalytics.com/images/buttons/letterZhipeng.png" style="width: 400px">](http://karanalytics.com/files/peerobservation.pdf){:target="_blank"}
 [<img src="http://karanalytics.com/images/buttons/tcemis111.png" style="width: 400px">](http://karanalytics.com/files/MIS111_feedback.pdf){:target="_blank"}  [<img src="http://karanalytics.com/images/buttons/tcemis331.png" style="width: 400px">](http://karanalytics.com/files/MIS331_feedback.pdf){:target="_blank"}  
 
-<span style="font-family:Papyrus; font-size:2em;">The instructor brought to the classroom a lot of passion for the material, an unusual characteristic for professors. The instructor always made sure students understood the material and was flexible in helping them when they needed help.</span> <span class="italic"; span style="font-size:0.5em;"> - Anonymous student feedback </span>
+<span style="font-family:Papyrus; font-size:1em;">The instructor brought to the classroom a lot of passion for the material, an unusual characteristic for professors. The instructor always made sure students understood the material and was flexible in helping them when they needed help.</span> <span style="font-size:0.5em;"> - Anonymous student feedback </span>
