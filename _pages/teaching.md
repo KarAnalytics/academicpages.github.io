@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-<div class="wp-caption aligncenter" style="width: 775px"><a href="http://karanalytics.com/files/TeachingStatement_KarthikS.pdf"><p><img class="aligncenter" src="http://karanalytics.com/images/Teaching4.png" alt="File:Teaching_KarthikS.png"/></a></p></div>
+<div class="wp-caption aligncenter" style="width: 775px"><p><img class="aligncenter" src="http://karanalytics.com/images/Teaching4.png" alt="File:Teaching_KarthikS.png"/></p></div>
 
 # Teaching experience
 
