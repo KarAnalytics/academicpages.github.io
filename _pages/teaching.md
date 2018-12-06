@@ -31,7 +31,7 @@ The MIS department, University of Arizona recognized my teaching efforts and awa
 * <span style="color:DarkBlue">[Student feedback - MIS 111](http://karanalytics.com/files/MIS111_feedback.pdf)</span>
 * <span style="color:DarkBlue">[Student feedback - MIS 331](http://karanalytics.com/files/MIS331_feedback.pdf)</span>
 
-<div class="wp-caption aligncenter" style="width: 775px">
+<div class="wp-caption aligncenter" style="width: 200px">
   <p>
     <img class="aligncenter" src="http://karanalytics.com/images/Student_feedback.png" alt="File:Student_feedback.png"/>
   </p>
