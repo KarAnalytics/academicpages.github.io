@@ -9,7 +9,7 @@ redirect_from:
 ---
 My name is Karthik Srinivasan and I am an Assistant Professor in the Business Analytics area of [School of Business at University of Kansas](https://business.ku.edu/) (SoB KU). I completed my PhD in Management Information Systems in 2019 at University of Arizona. My Ph.D advisor is Professor [Sudha Ram](https://mis.eller.arizona.edu/people/sudha-ram).
 
-My research focuses on addressing novel and important challenges in healthcare information systems, particularly in digital health and preventive care. My methodological contributions involve the use of network science, machine learning, and statistical modeling approaches.
+My research focuses on addressing novel and important challenges in healthcare analytics, particularly in the areas of digital health and preventive care. I use a combination of network science, machine learning, and statistical modeling approaches to develop solutions for my research problems.
 
 I am teaching BSAN/IST 325 - Systems Analysis and Design, and BSAN/IST 326 - Database Management Systems in Fall 2019 at SoB KU. I look forward to working with a very promising cohort of students.
 
