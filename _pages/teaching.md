@@ -9,7 +9,7 @@ author_profile: true
 
 # Teaching experience
 
-I have taught the following two undergraduate courses in MIS department, University of Arizona: (a) MIS 111 – Computers and Internetworked Society (Summer 2016), and (b) MIS 331 – Database Management Systems (Fall 2017). In addition, I have worked as a teaching assistant during Spring 2016, Fall 2016, Spring 2017, Spring 2018 and Fall 2018 semesters for MIS 587 – Business Intelligence; an 8-week mini-semester course offered by Professor Sudha Ram in the MIS*online* Masters’ program. My teaching experience in the MIS department at Eller College of Management, University of Arizona has been a greatly enabling experience. It included experience in course design, coordinating with teaching assistants, exposure to a diverse student population, and teaching challenging topics.
+I have taught the following two undergraduate courses in the MIS department at University of Arizona: (a) MIS 111 – Computers and Internetworked Society (Summer 2016), and (b) MIS 331 – Database Management Systems (Fall 2017). In addition, I have worked as a teaching assistant during Spring 2016, Fall 2016, Spring 2017, Spring 2018 and Fall 2018 semesters for MIS 587 – Business Intelligence; an 8-week mini-semester course offered by Professor Sudha Ram in the MIS*online* Masters’ program. My teaching experience in the MIS department at Eller College of Management, University of Arizona has been a greatly enabling experience. It included experience in course design, coordinating with teaching assistants, exposure to a diverse student population, and teaching challenging topics.
 
 ## Evidence of practice
 

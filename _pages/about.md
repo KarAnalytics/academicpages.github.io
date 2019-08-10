@@ -7,12 +7,14 @@ redirect_from:
 - /about/
 - /about.html
 ---
-My name is Karthik Srinivasan and I am doing my Ph.D in Management Information Systems at the [University of Arizona](https://mis.eller.arizona.edu/). My Ph.D advisor is Professor [Sudha Ram](https://mis.eller.arizona.edu/people/sudha-ram).
+My name is Karthik Srinivasan and I am an Assistant Professor in the Business Analytics area in [School of Business at University of Kansas](https://business.ku.edu/) (SoB KU). I completed my PhD in Management Information Systems in 2019 at University of Arizona. My Ph.D advisor is Professor [Sudha Ram](https://mis.eller.arizona.edu/people/sudha-ram).
 
-Preventive care analytics is the science of extracting insights from electronic health records to assist clinical decision-making, while digital health focuses on enhancing individual wellbeing via continuous tracking of health indicators. With rapid development in healthcare big data and sensor technologies, research in these two areas is increasing in importance and complexity. Innovative analytics methods are required for processing and analyzing the complex data generated in preventive care and digital health applications. My research focuses on addressing novel and important challenges in digital health and preventive care using a combination of network science, machine learning, and statistical modeling approaches.
+My research focuses on addressing novel and important challenges in healthcare information systems, particularly in digital health and preventive care. My methodological contributions involve the use of network science, machine learning, and statistical modeling approaches.
 
 <div class="wp-caption aligncenter" style="width: 775px">
   <p>
     <img class="aligncenter" src="http://karanalytics.com/images/Health_analytics.png" alt="File:Health_analytics.png"/>
   </p>
 </div>
+
+I am teaching BSAN/IST 325 - Systems Analysis and Design, and BSAN/IST 326 - Database Management Systems in Fall 2019 at SoB KU. I look forward to working with a very promising cohort of students.   

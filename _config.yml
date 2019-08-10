@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Personal page"
 title_separator          : "-"
 name                     : &name "Personal page"
-description              : &description "Doctoral student, University of Arizona"
+description              : &description "Assistant Professor, University of Kansas"
 url                      : "https://karanalytics.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "karanalytics/karanalytics.github.io"
@@ -79,11 +79,12 @@ analytics:
 author:
   name             : "Karthik Srinivasan"
   avatar           : "profile.png"
-  bio              : "MIS, Health IS, Health analytics, Digital health, Preventive care"
-  location         : "Tucson, Arizona"
+  bio              : "Health information systems, digital health, statistical machine learning,
+machine learning interpretability"
+  location         : "Lawrence, Kansas"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=ZtWgsq0AAAAJ&hl=en"
-  email            : "karthiks@email.arizona.edu"
+  email            : "karthiks@ku.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -248,7 +249,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Phoenix # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Mexico_City # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
